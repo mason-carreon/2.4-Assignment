@@ -8,7 +8,7 @@
     let a = 5;
     let b = 6;
 
-    let z = a + b; // This is a mathematical operations with variables.
+    let z = a + b; // This is a mathematical operation with variables.
 
     console.log ("The total is " + z);
 
